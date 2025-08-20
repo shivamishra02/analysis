@@ -1,0 +1,3 @@
+test,statistic,pvalue
+t-test (Fear vs Greed),-1.2383153189940703,0.21562898296969027
+Mann-Whitney (Fear vs Greed),12370102.0,0.33619204115506807
